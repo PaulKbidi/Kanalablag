@@ -1,0 +1,25 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button {
+    padding: 1rem;
+    margin: 1rem;
+    background-color: aquamarine;
+    border: none;
+    border-radius: 10px;
+    font-size: 2rem;
+}
+
+.blagues {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.blagues div {
+    margin: 0.5rem;
+    font-size: 2rem;
+}
